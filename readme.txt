@@ -1,9 +1,9 @@
 ﻿=== UnityDog ===
-Contributors: garrynewman 
+Contributors: garrynewman, quasel
 Donate link: 
 Tags: unity3d unity
-Requires at least: 3.3
-Tested up to: 3.5.1
+Requires at least: 3.8
+Tested up to: 4.1
 Stable tag: stable
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
