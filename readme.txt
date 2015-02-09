@@ -11,6 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Upload and embed Unity webplayer files.
 
 == Description ==
+This is a fork of the original unitydog plugin - currently under development
 
 This plugin takes all the work out of embedding unity3d files into your blog. It enables uploading and download of unity3d files inside Wordpress without any server reconfiguring.
 
